@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<tomee>
+  <Deployments dir="apps" />
+  
+ <!-- <Resource id="EISResourceConnectionFactory" class-name="org.waastad.jca.acme.outbound.lib.TradeManagedConnectionFactory">
+      host=127.0.0.1
+      port=4004      
+  </Resource>-->
+
+</tomee>
